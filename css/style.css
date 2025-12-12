@@ -2,7 +2,7 @@
     --font-main: 'Noto Sans SC', 'Segoe UI', Arial, sans-serif;
     --bg-gradient: linear-gradient(140deg, #e0f5e9 0%, #c6f0e0 35%, #a3e4d7 100%);
     --bg-gradient-next: var(--bg-gradient);
-    --container-bg: rgba(255, 255, 255, 0.6);
+    --container-bg: rgba(255, 255, 255, 0.1);
     --container-shadow: rgba(0, 0, 0, 0.1);
     --backdrop-blur: 12px;
     --text-color: #2c3e50;
@@ -26,7 +26,7 @@
 
 .dark-mode {
     --bg-gradient: linear-gradient(135deg, #0b1d1b 0%, #0f2f2c 45%, #123c36 100%);
-    --container-bg: rgba(30, 30, 30, 0.6);
+    --container-bg: rgba(30, 30, 30, 0.1);
     --container-shadow: rgba(0, 0, 0, 0.3);
     --text-color: #ecf0f1;
     --text-secondary-color: #95a5a6;
